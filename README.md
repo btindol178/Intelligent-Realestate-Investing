@@ -25,3 +25,6 @@ These next two functions are right from the API page i didnt make them. <br>
 
 ![Caption for the picture4.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/api2.JPG) <br>
 
+<h3> Clean API Pull Data </h3> <br>
+
+![Caption for the picture5.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/clean%20api.JPG)<br>
