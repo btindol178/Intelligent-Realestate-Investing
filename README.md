@@ -11,4 +11,8 @@ Goals of this Project: <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h3> Package imports </h3> <br> 
 
-![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)
+![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG) <br>
+
+<h3> Make State Abbreviation Dictionary </h3> <br>
+
+![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/statemapping.JPG) <br>
