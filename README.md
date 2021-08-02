@@ -10,4 +10,4 @@ Goals of this Project: <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h3> Package imports </h3>
-![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
+![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)
