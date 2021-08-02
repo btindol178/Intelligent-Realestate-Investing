@@ -54,3 +54,9 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Structure each cell to make a full address for web scraping/automation </h3> <br> 
 
 ![Caption for the picture11.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/addressstructure.JPG) <br>
+
+<h3> Loop through each url for mellisa.com that corresponds for a house for sale and download excel file for list of houses on that street </h3><br>
+
+![Caption for the picture12.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/loop1.JPG)<br>
+
+![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/email2.JPG)<br>
