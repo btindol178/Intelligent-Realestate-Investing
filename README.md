@@ -50,3 +50,6 @@ These next two functions are right from the API page i didnt make them. <br>
 ![Caption for the picture9.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/folium1.JPG) <br> 
 
 ![Caption for the picture10.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/folium2.JPG) <br>
+
+<h3> Structure each cell to make a full address for web scraping/automation </h3> <br> 
+![Caption for the picture11.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/addressstructure.JPG) <br>
