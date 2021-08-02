@@ -40,3 +40,7 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Expand address column that is a list of other columns </h3> <br>
 
 ![Caption for the picture8.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/expand.JPG) <br>
+
+<h3> Mapp the listings with Folium (Leaflet style map) to see if we can visually see patterns with color coding </h3><br>
+
+![Caption for the picture9.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/folium1.JPG) <br> 
