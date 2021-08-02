@@ -32,3 +32,7 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Pick a city and state to use API Pull </h3><br>
 
 ![Caption for the picture6.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/city1.JPG) <br>
+
+<h3>Use cleaning function and API Function on data to make it more understandable</h3> <br>
+
+![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/resp1.JPG) </h3><br>
