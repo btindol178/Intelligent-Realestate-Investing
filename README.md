@@ -35,4 +35,8 @@ These next two functions are right from the API page i didnt make them. <br>
 
 <h3>Use cleaning function and API Function on data to make it more understandable</h3> <br>
 
-![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/resp1.JPG) </h3><br>
+![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/resp1.JPG)<br>
+
+<h3> Expand address column that is a list of other columns </h3> <br>
+
+![Caption for the picture8.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/expand.JPG) <br>
