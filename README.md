@@ -33,6 +33,10 @@ These next two functions are right from the API page i didnt make them. <br>
 
 ![Caption for the picture6.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/city1.JPG) <br>
 
+<h3> Automate inputing datafrom dataframe into melissa.com website to get all other houses on street's exact address even if not for sale </h3>
+*https://www.melissa.com/v2/lookups/addresssearch/
+
+
 <h3>Use cleaning function and API Function on data to make it more understandable</h3> <br>
 
 ![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/resp1.JPG)<br>
