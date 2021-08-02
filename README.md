@@ -10,22 +10,4 @@ Goals of this Project: <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h3> Package imports </h3>
-
-import pandas as pd<br>
-import requests<br>
-import json                                                        #helps manipulate json<br>
-import csv                                                         # helps with csv files<br>
-from bs4 import BeautifulSoup                                      # to scrape web<br>
-!pip install pyzillow                                              # zestimate api<br>
-from pyzillow.pyzillow import ZillowWrapper, GetDeepSearchResults  # zestimate api<br>
-from selenium import webdriver                                     # to scrape web<br>
-from selenium.webdriver.support.ui import WebDriverWait            # to scrape web<br>
-from selenium.webdriver.support import expected_conditions as EC   # to scrape web<br>
-import os                                                          # to set directory<br>
-import shutil<br>
-!pip install folium<br>
-import folium                                                      # map visualization<br>
-
-
-email = 'blaketindol@gmail.com'<br>
-passwordz = 'Your Password' <br>
+![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
