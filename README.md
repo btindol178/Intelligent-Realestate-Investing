@@ -9,5 +9,6 @@ Goals of this Project: <br>
 * Deploy/learn to deploy the flask app on AWS  <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-<h3> Package imports </h3>
+<h3> Package imports </h3> <br> 
+
 ![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)
