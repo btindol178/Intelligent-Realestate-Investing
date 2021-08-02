@@ -68,6 +68,7 @@ These next two functions are right from the API page i didnt make them. <br>
 ![Caption for the picture15.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/final%20result.JPG) <br>
 
 <h3> Get Zestimate for each house using zillow API</h3> <br>
-This code is expired the zillow api now has been retired. I figured i would show the process anyway.<br>
+*This code is expired the zillow api now has been retired. I figured i would show the process anyway.<br>
+*I went to https://www.zillow.com/how-much-is-my-home-worth/ to get zestimates manually. Scraping and automating is possible with more complex methods but zillow has strong protection against scraping.<br>
 
 ![Caption for the picture16.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/zillow2.JPG)<br>
