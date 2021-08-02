@@ -16,3 +16,8 @@ Goals of this Project: <br>
 <h3> Make State Abbreviation Dictionary </h3> <br>
 
 ![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/statemapping.JPG) <br>
+
+<h3> Relator API </h3>
+Next your going to go to https://rapidapi.com/apidojo/api/realtor and get the sample API Code that is on the site to pull realestate listings. <br> 
+
+![Caption for the picture3.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/api1.JPG) <br> 
