@@ -60,3 +60,7 @@ These next two functions are right from the API page i didnt make them. <br>
 ![Caption for the picture12.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/loop1.JPG)<br>
 
 ![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/email2.JPG)<br>
+
+<h3> Loop through all the downloaded excel files in downloads folder and open them and concatenate them into one big dataframe </h3>
+
+![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/filenameloop.JPG)
