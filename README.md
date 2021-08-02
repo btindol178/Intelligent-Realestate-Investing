@@ -28,3 +28,7 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Clean API Pull Data </h3> <br>
 
 ![Caption for the picture5.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/clean%20api.JPG)<br>
+
+<h3> Pick a city and state to use API Pull </h3><br>
+
+![Caption for the picture6.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/city1.JPG>
