@@ -44,3 +44,5 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Mapp the listings with Folium (Leaflet style map) to see if we can visually see patterns with color coding </h3><br>
 
 ![Caption for the picture9.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/folium1.JPG) <br> 
+
+![Caption for the picture10.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/folium2.JPG) <br>
