@@ -80,3 +80,5 @@ These next two functions are right from the API page i didnt make them. <br>
 <h3> Run a few different ML Models (Regression, Gradient Boost and Random Forest Regressor) to see the best prediction output </h3>
 
 ![Caption for the picture18.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/regression2.JPG)
+
+<h3> Now lets make a web facing flask app and upload it to elastic beanstalk with AWS </h3>
