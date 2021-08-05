@@ -79,4 +79,4 @@ These next two functions are right from the API page i didnt make them. <br>
 
 <h3> Run a few different ML Models (Regression, Gradient Boost and Random Forest Regressor) to see the best prediction output </h3>
 
-![image](https://user-images.githubusercontent.com/43470876/128285752-db99a2a2-9cb7-4b20-bc95-d7407bf47575.png)
+![Caption for the picture18.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/regression2.JPG)
