@@ -72,3 +72,6 @@ These next two functions are right from the API page i didnt make them. <br>
 *I went to https://www.zillow.com/how-much-is-my-home-worth/ to get zestimates manually. Scraping and automating is possible with more complex methods but zillow has strong protection against scraping.<br>
 
 ![Caption for the picture16.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/zillow2.JPG)<br>
+
+<h3> Upload all the houses on Mohawk Road in St.Pete FL now that we got all the zestimates </h3>
+![Caption for the picture17.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/photos/regression1.JPG)
