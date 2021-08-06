@@ -34,11 +34,11 @@
 ![Caption for the picture5.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture5.JPG)<br>
 
 
-<h3> Now we need to loop through all of the individual addresses and put them into Melissa.com to get all of the addresses on that street.</h3>
-<br>
-
 ![Caption for the picture6.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture6.JPG)<br>
 
+
+<h3> Now we need to loop through all of the individual addresses and put them into Melissa.com to get all of the addresses on that street.</h3>
+<br>
 
 ![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture7.JPG)<br>
 
