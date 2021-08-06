@@ -10,10 +10,6 @@
 
 ![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
 
-<h3> Then we make a dictonary for api </h3><br> 
-
-![Caption for the picture1.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1.JPG)<br>
-
 
 ![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture2.JPG)<br>
 
