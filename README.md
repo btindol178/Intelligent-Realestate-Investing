@@ -52,6 +52,9 @@
 ![Caption for the picture9.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture9.JPG)<br>
 
 
+<h3> Now that we saved all of the excel files into our downloads folder lets loop through the files open them and append them to each other to make one big dataset. </h3>
+<br>
+
 ![Caption for the picture10.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture10.JPG)<br>
 
 
