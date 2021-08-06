@@ -84,31 +84,31 @@
 * Step 1) Start virtual enviornment <br>
 py -m venv venv<br>
 <br>
-*Step 2) Activate the virtual env<br>
+* Step 2) Activate the virtual env<br>
 venv\Scripts\activate <br>
 <br>
-*Step 3) Install Flask in virtual machine <br>
+* Step 3) Install Flask in virtual machine <br>
 pip install flask <br>
 <br>
-*Step 4) Install flask-wtf <br>
+* Step 4) Install flask-wtf <br>
 pip install flask-wtf <br>
 <br>
-*Step 5) In main folder create .flaskenv file <br>
+* Step 5) In main folder create .flaskenv file <br>
 .flaskenv <br>
 <br>
-*Step 6) Inside the .flaskenv file write this <br>
+* Step 6) Inside the .flaskenv file write this <br>
 FLASK_ENV=development <br>
 FLASK_APP=main.py <br>
 <br>
-*Step 7) Install package called pip install python-dotenv to envoke the above enviornment variables<br>
+* Step 7) Install package called pip install python-dotenv to envoke the above enviornment variables<br>
 pip install python-dotenv<br>
 <br>
-*Step 8) Make requirements.txt folder<br>
+* Step 8) Make requirements.txt folder<br>
 pip freeze > requirements.txt <br>
 	Step 8 Note) if needed to install requirements.txt folder do this<br>
 	pip install -r requirements.txt<br>
 <br>
-*Step 9) Install<br>
+* Step 9) Install<br>
 pip install pandas<br>
 pip install numpy <br>
 pip install scikit-image<br>
