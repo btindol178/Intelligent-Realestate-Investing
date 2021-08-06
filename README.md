@@ -75,7 +75,6 @@
 ![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture14.JPG)<br>
 
 <h3> You can see the accuracy is not the best as this dataset is not trained on mucyh and didnt use very complex methods of training either. </h3> <br>.
-
 <br>
 
 <h3> Now lets make a web facing flask app using this ML model  </h3>
@@ -120,4 +119,7 @@ pip install -U scikit-learn<br>
 * Step 10) Run Final Commmand <br>
 python model.py <br>
 python app.py <br> 
-* 
+<br>
+
+<h3> The app will look like this. I have put 3 bed 2 bath and 2000sqft in the inputs and you can see the output. </h3>
+![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture13.JPG)<br>
