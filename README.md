@@ -67,7 +67,7 @@
 ![Caption for the picture12.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture12.JPG)<br>
 
 
-![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture12.JPG)<br>
+![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture13.JPG)<br>
 
 ![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture14.JPG)<br>
 
