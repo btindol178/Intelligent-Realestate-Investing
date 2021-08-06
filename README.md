@@ -81,42 +81,42 @@
 * First grab all of the files under the readme and make a new folder in your perfered ide mine is visual studio code.<br>
 <br>
 
-* Step 1) Start virtual enviornment <br>
+Step 1) Start virtual enviornment <br>
 py -m venv venv<br>
 <br>
-* Step 2) Activate the virtual env<br>
+Step 2) Activate the virtual env<br>
 venv\Scripts\activate <br>
 <br>
-* Step 3) Install Flask in virtual machine <br>
+Step 3) Install Flask in virtual machine <br>
 pip install flask <br>
 <br>
-* Step 4) Install flask-wtf <br>
+Step 4) Install flask-wtf <br>
 pip install flask-wtf <br>
 <br>
-* Step 5) In main folder create .flaskenv file <br>
+Step 5) In main folder create .flaskenv file <br>
 .flaskenv <br>
 <br>
-* Step 6) Inside the .flaskenv file write this <br>
+Step 6) Inside the .flaskenv file write this <br>
 FLASK_ENV=development <br>
 FLASK_APP=main.py <br>
 <br>
-* Step 7) Install package called pip install python-dotenv to envoke the above enviornment variables<br>
+Step 7) Install package called pip install python-dotenv to envoke the above enviornment variables<br>
 pip install python-dotenv<br>
 <br>
-* Step 8) Make requirements.txt folder<br>
+Step 8) Make requirements.txt folder<br>
 pip freeze > requirements.txt <br>
 	Step 8 Note) if needed to install requirements.txt folder do this<br>
 	pip install -r requirements.txt<br>
 <br>
-* Step 9) Install<br>
+Step 9) Install<br>
 pip install pandas<br>
 pip install numpy <br>
 pip install scikit-image<br>
 pip install -U scikit-learn<br>
 <br>
-* Step 9) Make sure your in the right directory if you need to go deeper just use cd (next folder in) untill you get to where model.py is stored <br>
+Step 9) Make sure your in the right directory if you need to go deeper just use cd (next folder in) untill you get to where model.py is stored <br>
 <br>
-<h5>Step 10)</h5> Run Final Commmand <br>
+Step 10)Run Final Commmand <br>
 python model.py <br>
 python app.py <br> 
 <br>
