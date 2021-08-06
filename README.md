@@ -10,6 +10,9 @@
 
 ![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
 
+<h3> Next we make a dictionary for state to state abbr mapping for our API function</h3><br> 
+* The api we will use is from https://rapidapi.com/apidojo/api/realtor/.<br> 
+* It is the relator api you dont need your own API key here you can use theirs.<br> 
 
 ![Caption for the picture2.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture2.JPG)<br>
 
