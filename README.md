@@ -121,6 +121,7 @@ python model.py <br>
 python app.py <br> 
 <br>
 
-<h3> The app will look like this. I have put 3 bed 2 bath and 2000sqft in the inputs and you can see the output. </h3>
+<h3> The app will look like this. I have put 3 bed 2 bath and 2000sqft in the inputs and you can see the output. </h3><br>
 <br>
+
 ![Caption for the picture15.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture15.JPG)<br>
