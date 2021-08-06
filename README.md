@@ -7,9 +7,11 @@
 * Deploy the application to AWS Elastic beanstalk 
 
 <h3> First we load the proper packages </h3><br> 
+
 ![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
 
 <h3> First we load the proper packages </h3><br> 
+
 ![Caption for the picture1.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1.JPG)<br>
 
 
