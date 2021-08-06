@@ -43,6 +43,8 @@
 
 ![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture7.JPG)<br>
 
+<h3> Now that we have all the addresses we want and the urls we will inject them into the website with selenium webdriver and download an excel file of the data for each street of house addresses.</h3>
+<br>
 
 ![Caption for the picture8.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture8.JPG)<br>
 
