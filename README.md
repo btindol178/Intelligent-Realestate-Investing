@@ -38,6 +38,7 @@
 
 
 <h3> Now we need to loop through all of the individual addresses and put them into Melissa.com to get all of the addresses on that street.</h3>
+* Here we paste a few columns together and inject them into a url for later use with selenium webdriver. <br>
 <br>
 
 ![Caption for the picture7.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture7.JPG)<br>
