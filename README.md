@@ -66,9 +66,18 @@
 
 ![Caption for the picture12.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture12.JPG)<br>
 
+<h3> Now that I have all of the houses on every street that has a house for sale ill reduce my data set for one street and compare some ML models for Prediction. </h3>
+* I will compare Linear regression, gradient and regressor trees <br>
+<br>
 
 ![Caption for the picture13.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture13.JPG)<br>
 
 ![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture14.JPG)<br>
+
+<h3> You can see the accuracy is not the best as this dataset is not trained on mucyh and didnt use very complex methods of training either. </h3> <br.
+
+<br>
+
+<h3> Now lets make a web facing flask app using this ML model  </h3>
 
 
