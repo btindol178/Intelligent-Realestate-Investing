@@ -74,10 +74,28 @@
 
 ![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture14.JPG)<br>
 
-<h3> You can see the accuracy is not the best as this dataset is not trained on mucyh and didnt use very complex methods of training either. </h3> <br.
+<h3> You can see the accuracy is not the best as this dataset is not trained on mucyh and didnt use very complex methods of training either. </h3> <br>.
 
 <br>
 
 <h3> Now lets make a web facing flask app using this ML model  </h3>
+* First grab all of the files under the readme and make a new folder in your perfered ide mine is visual studio code.<br>
+<br>
+* Step 1) Start virtual enviornment <br>
+py -m venv venv<br>
 
+Step 2) Activate the virtual env<br>
+venv\Scripts\activate <br>
 
+Step 3) Install Flask in virtual machine <br>
+pip install flask <br>
+
+Step 4) Install flask-wtf <br>
+pip install flask-wtf <br>
+
+Step 5) In main folder create .flaskenv file <br>
+.flaskenv <br>
+
+Step 6) Inside the .flaskenv file write this <br>
+FLASK_ENV=development <br>
+FLASK_APP=main.py <br>
