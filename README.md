@@ -22,13 +22,12 @@
 
 <h3> Now we clean up the API's output! </h3>
 * Here we are selecting the right columns <br>
+* Then we are selecting the address columns and other to expand the dictonary into multiple individual columns<br>
+* Then using the API function to get data for cape coral fl
 <br>
 
 ![Caption for the picture4.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4.JPG)<br>
 
-<h3> Now we clean up the API's outputs columns! </h3>
-* Here we are selecting the address columns and other to expand the dictonary into multiple individual columns <br>
-<br>
 
 ![Caption for the picture5.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture5.JPG)<br>
 
