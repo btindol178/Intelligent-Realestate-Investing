@@ -1,16 +1,16 @@
-<h1> Realestate Investing </h1>
-<H3> The Goals of this project </h3>
-* To get houses values that are for sale programmatically using API's
-* To scrape a website melissa.com to get all of the houses on a street that are not for sale.
-* Use Zillow Zestimate to get values of houses that are not for sale.
-* Make a web facing flask app that uses machine learning to predict what a new build would look like on that street. 
-* Deploy the application to AWS Elastic beanstalk 
+<h1> Realestate Investing </h1><br>
+<H3> The Goals of this project </h3><br>
+* To get houses values that are for sale programmatically using API's<br>
+* To scrape a website melissa.com to get all of the houses on a street that are not for sale.<br>
+* Use Zillow Zestimate to get values of houses that are not for sale.<br>
+* Make a web facing flask app that uses machine learning to predict what a new build would look like on that street. <br>
+* Deploy the application to AWS Elastic beanstalk <br>
 
 <h3> First we load the proper packages </h3><br> 
 
 ![Caption for the picture.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture.JPG)<br>
 
-<h3> First we load the proper packages </h3><br> 
+<h3> Then we make a dictonary for api </h3><br> 
 
 ![Caption for the picture1.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1.JPG)<br>
 
