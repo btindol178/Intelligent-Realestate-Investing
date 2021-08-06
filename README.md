@@ -116,7 +116,7 @@ pip install -U scikit-learn<br>
 <br>
 * Step 9) Make sure your in the right directory if you need to go deeper just use cd (next folder in) untill you get to where model.py is stored <br>
 <br>
-* Step 10) Run Final Commmand <br>
+<h5>Step 10)</h5> Run Final Commmand <br>
 python model.py <br>
 python app.py <br> 
 <br>
