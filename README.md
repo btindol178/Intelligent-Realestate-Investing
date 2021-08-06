@@ -20,6 +20,7 @@
 
 ![Caption for the picture3.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture3.JPG)<br>
 
+<h3> Now we clean up the API's output! </h3><br> 
 
 ![Caption for the picture4.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4.JPG)<br>
 
