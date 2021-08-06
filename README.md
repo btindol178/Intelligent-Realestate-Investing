@@ -1,8 +1,6 @@
-## =
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+<h1> Realestate Investing </h1>
+<H3> The Goals of this project </h3>
+To get houses values that are not for sale programmatically and make a web facing flask app that uses machine learning to predict what a new build would look like on that street. 
 
-https://www.youtube.com/embed/gYWdjnc43r0
 
-
-Make a youtube video and then showcase the project its more effective show a short description and then make a video.. 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gYWdjnc43r0)
+![Caption for the picture4.](https://raw.githubusercontent.com/btindol178/Sea-Level-Raise-Analysis-/main/api_dataframe_call.JPG)
