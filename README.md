@@ -60,6 +60,9 @@
 
 ![Caption for the picture11.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture11.JPG)<br>
 
+<h3> Zillow API has been retired but this is the code used to get the zestimate for each of the houses not for sale. </h3>
+* You can go here to do it manually https://www.zillow.com/how-much-is-my-home-worth/ <br>
+<br>
 
 ![Caption for the picture12.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture12.JPG)<br>
 
