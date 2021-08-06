@@ -28,6 +28,8 @@
 
 ![Caption for the picture4.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4.JPG)<br>
 
+<h3> Now we can visualize the houses for sale from Relator API using a custom folium map and function</h3>
+<br>
 
 ![Caption for the picture5.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture5.JPG)<br>
 
