@@ -145,6 +145,7 @@ python app.py <br>
 
 ![Caption for the picture18.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture3z.JPG)<br>
 
+<h3> Finally upload your zipped app file and submit. Now Congrats! you made your first simple flask app with ML model and deployed it! </h3>
 
 ![Caption for the picture19.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4z.JPG)<br>
 
