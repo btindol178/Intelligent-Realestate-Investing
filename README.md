@@ -136,6 +136,8 @@ python app.py <br>
 
 ![Caption for the picture16.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1z.JPG)<br>
 
+<h3> Log in at https://aws.amazon.com/console/ and create an AWS account </h3> <br>
+* Then go to Elastic beanstalk via the search bar <br> 
 
 ![Caption for the picture17.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture2z.JPG)<br>
 
