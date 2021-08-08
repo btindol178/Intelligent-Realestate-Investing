@@ -124,4 +124,16 @@ python app.py <br>
 <h3> The app will look like this. I have put 3 bed 2 bath and 2000sqft in the inputs and you can see the output. </h3><br>
 <br>
 
-![Caption for the picture15.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture15.JPG)<br>
+![Caption for the picture16.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1z.JPG)<br>
+
+
+![Caption for the picture17.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture2z.JPG)<br>
+
+
+![Caption for the picture18.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture3z.JPG)<br>
+
+
+![Caption for the picture19.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4z.JPG)<br>
+
+
+![Caption for the picture20.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture6z.JPG)<br>
