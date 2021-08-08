@@ -74,7 +74,7 @@
 
 ![Caption for the picture14.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture14.JPG)<br>
 
-<h3> You can see the accuracy is not the best as this dataset is not trained on mucyh and didnt use very complex methods of training either. </h3> <br>.
+<h3> You can see the accuracy is not the best as this dataset is not trained on much and didnt use very complex methods of training either. </h3> <br>.
 <br>
 
 <h3> Now lets make a web facing flask app using this ML model  </h3>
