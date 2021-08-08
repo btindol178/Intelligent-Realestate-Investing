@@ -150,6 +150,4 @@ python app.py <br>
 ![Caption for the picture19.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture4z.JPG)<br>
 
 
-
-
-![Caption for the picture20.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture6z.JPG)<br>
+<h3> Hope you liked my project! Thanks for checking it out!</h3>
