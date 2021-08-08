@@ -141,6 +141,7 @@ python app.py <br>
 
 ![Caption for the picture17.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture2z.JPG)<br>
 
+<h3> Go to application and click create new application and fill in the information with the name of your app. </h3>
 
 ![Caption for the picture18.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture3z.JPG)<br>
 
