@@ -129,7 +129,11 @@ python app.py <br>
 ![Caption for the picture15.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture15.JPG)<br>
 
 
-
+<h3> Now lets deploy this application to AWS Elastic Beanstalk!  </h3> <br>
+* First you need to grab the style file and put it in a folder called static<br>
+* Secondly you need to grab the python.config file and put it in a folder called .ebextensions this is for AWS<br>
+* Thirdly you need to grab the html file and put it in a folder called templates<br>
+* Lastly zip all of the files similar to the picture below for EB upload later<br>
 ![Caption for the picture16.](https://raw.githubusercontent.com/btindol178/Intelligent-Realestate-Investing/main/photos/Capture1z.JPG)<br>
 
 
